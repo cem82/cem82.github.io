@@ -14,6 +14,15 @@ const CONFIG = {
 
   games: [
     {
+      title: "Indiepocalypse #76",
+      tags: ["Bundle", "itch.io"],
+      description: "A Monthly Indie Game Zine That Features 'Million Scars'.",
+      status: "Released",
+      link: "https://pizzapranks.itch.io/indiepocalypse-76",
+      image: ""
+    },
+    
+    {
       title: "Million Scars",
       tags: ["Unity", "itch.io"],
       description: "A Single Screen Twin Stick Shooter.",
