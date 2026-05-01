@@ -67,7 +67,7 @@ const CONFIG = {
 
     {
       title: "Eruc Mach",
-      tags: ["MonoGame", "itch.io"],
+      tags: ["Prototype", "MonoGame", "itch.io"],
       description: "A traditinal 2D shoot 'em up game that I've made to try out MonoGame framework.",
       status: "Prototype",
       link: "https://cemii.itch.io/eruc-mach",
