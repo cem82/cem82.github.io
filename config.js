@@ -82,7 +82,7 @@ const CONFIG = {
       tags: ["MATLAB"],
       description: "A simple audio signal processing tool built in MATLAB for EE101 class.",
       status: "Released",
-      link: "",
+      link: "https://github.com/cem82/AudioSignalProcessor",
       image: ""
     }
   ],
