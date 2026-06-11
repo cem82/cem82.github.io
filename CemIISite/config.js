@@ -8,7 +8,8 @@ const CONFIG = {
   about: [
     "Electrical–Electronics Engineering student.",
     "Creating Video Games.",
-    "Currently working mostly in Unity and Python."
+    "Currently working mostly in Unity and Python.",
+    "Contact me!: ccalis257@gmail.com"
   ],
 
 
