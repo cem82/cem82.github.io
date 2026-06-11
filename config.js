@@ -8,7 +8,8 @@ const CONFIG = {
   about: [
     "Electrical–Electronics Engineering student.",
     "Creating Video Games.",
-    "Currently working mostly in Unity and Python."
+    "Currently working mostly in Unity and Python.,
+    "Contact me!: ccalis257@gmail.com"
   ],
 
 
@@ -96,7 +97,7 @@ const CONFIG = {
 
   links: [
     { label: "itch.io",  url: "https://cemii.itch.io/",       handle: "CEMII" },
-    { label: "github",   url: "https://github.com/cem82",     handle: "cem82"        }
+    { label: "github",   url: "https://github.com/cem82",     handle: "cem82" }
   ]
 
 };
