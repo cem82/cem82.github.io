@@ -78,6 +78,15 @@ const CONFIG = {
 
 
   projects: [
+
+     {
+      title: "Environment Monitoring & Control System",
+      tags: ["Python", "Arduino", "MatPlotLib"],
+      description: "An Arduino based embedded system that reads environmental sensors, streams the data to a Python application over UART, logs it to CSV, and drives a servo actuator that can be toggled on and off with a physical button.",
+      status: "Released",
+      link: "https://github.com/cem82/Environment-Monitoring-and-Control-System-With-Arduino-and-Python",
+      image: ""
+    },
     {
       title: "Audio Signal Processor",
       tags: ["MATLAB"],
