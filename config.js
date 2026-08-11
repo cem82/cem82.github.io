@@ -78,6 +78,14 @@ const CONFIG = {
 
 
   projects: [
+    {
+      title: "Chip-8 Emulator for Pico2",
+      tags: ["C", "Raspberry Pi"],
+      description: "A Chip-8 emulator that runs on bare metal Pico2 system.",
+      status: "Released",
+      link: "https://github.com/cem82/Chip8-Emulator-For-Pico2W",
+      image: ""
+    },
 
      {
       title: "Environment Monitoring & Control System",
